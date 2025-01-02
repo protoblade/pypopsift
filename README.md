@@ -13,6 +13,7 @@ Requirements:
 ```
 # git clone --recurse-submodules https://github.com/uav4geo/pypopsift
 # cd pypopsift && mkdir build && cd build
+# cmake ..
 # make -j8
 ```
 
