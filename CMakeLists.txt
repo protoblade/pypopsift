@@ -9,7 +9,7 @@ set(PopSift_BUILD_EXAMPLES OFF)
 FetchContent_Declare(
   popsift
   GIT_REPOSITORY https://github.com/protoblade/popsift
-  GIT_TAG        develop
+  GIT_TAG        dev/cmake-lang-cuda
 )
 set(FETCHCONTENT_QUIET OFF)
 FetchContent_MakeAvailable(popsift)
