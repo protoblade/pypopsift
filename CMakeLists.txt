@@ -8,7 +8,7 @@ include(FetchContent)
 set(PopSift_BUILD_EXAMPLES OFF)
 FetchContent_Declare(
   popsift
-  GIT_REPOSITORY https://github.com/alicevision/popsift
+  GIT_REPOSITORY https://github.com/protoblade/popsift
   GIT_TAG        develop
 )
 set(FETCHCONTENT_QUIET OFF)
